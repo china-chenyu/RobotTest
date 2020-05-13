@@ -1,0 +1,4 @@
+注册 http://localhost:8080/Regist
+用户登录 http://localhost:8080/login.jsp
+管理员登录 http://localhost:8080/admin_login.jsp
+使用数据库 staff
