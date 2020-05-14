@@ -11,7 +11,6 @@ class ProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
-		//21421
 		String[] arr = {"1","2"};
 		Stream<String> arr1 = Stream.of(arr);
 		arr1.forEach(System.out::print);
